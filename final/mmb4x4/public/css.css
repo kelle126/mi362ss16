@@ -1,0 +1,90 @@
+/* logo blue: #0F1E49;
+light blue: #6BA4FF;
+background color:#0F1E49;
+C2D4F2
+*/
+
+
+
+html {
+	background-color: #0F1E49;
+}
+body {
+	background-color: #C2D4F2;
+	width: 1000px;
+	min-height:800px;
+	margin: 4em auto; /* this + a defined width, centers the body content */
+	border-color: #6BA4FF;
+	border-style: solid;
+	border-width: 8px;
+	padding: 50px;
+
+}
+
+.container {
+	width: 800px;
+}
+header {
+	padding-left: 40px;
+	height: 275px;
+	padding-right: 100px;
+}
+
+header img{
+	float: left;
+	margin-left: 1em;
+}
+
+h1, h2 {
+	text-align: center;
+	color: black;
+	float: right;
+}
+
+h3 {
+	font-weight: bold;
+	color: black;
+}
+
+
+/* this will put a border around ALL images 
+img {
+	border-color: black;
+	border-style: solid;
+	border-width: 5px;
+}*/
+
+
+/* The code below here alters your links */
+a:link {
+  font-weight: bold;
+  color: #0F1E49;
+  text-decoration: none;
+  text-decoration: underline;
+}
+
+.navbar-nav > li > a:hover{
+	background-color: #C2D4F2;
+}
+
+.navbar-nav > li > a, .container > ul > li > h2 > a{
+	padding-left: 55px;
+	color: #0F1E49;
+}
+
+#nav a:link{
+	text-decoration: none;
+	color:#0F1E49;
+}
+
+#nav a {
+	text-align:center;
+}
+
+#nav li {
+	display: inline;
+}
+
+.footer{
+	padding-top: 220px;
+}
