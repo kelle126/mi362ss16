@@ -1,0 +1,12 @@
+My website link is  : www.mmb4x4.com
+backup from Heroku: http://obscure-mesa-59490.herokuapp.com/
+My source code is at: https://github.com/kelle126/mi362ss16/tree/master/final/mmb4x4
+
+100 - Hosted on Heroku (Required)
+100 - Custom domain name (Required): www.mmb4x4.com
+100 - Instructor/discretionary (Required, looking for quality, originality, spelling/grammer, overall project polish) 
+300 - 4 complete HTML pages with content: I chose to do 5 different pages (Home, Members, Events, Destinations, and Contacts)
+200 - Custom CSS or Bootstrap for design (all pages): I coded all the CSS from scratch to match what I wanted for the website)
+50 - Use at least two custom images (original photography or illustration) (All images on the website were taken by myself within the last two summers.  The logo was made when the club was founded in 1995 and hasn't changed since)
+100 - Use a Heroku add-on in your project- Hosted Graphite for monitoring
+50 - Integrate a JavaScript component- using node.js as the server
